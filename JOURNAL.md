@@ -6,7 +6,7 @@ Created On: 9/14/2025
 ---
 
 #Sept 14: Finished Design Of Card
-I used the tutorial on HackClub jams to make the design of the hacker card. I also added my own personal touch :D. I have finished!
+I used the tutorial on HackClub jams to make the design of the hacker card. I also added my own personal touch :D. I had a few setbacks but asked the Slack community and they helped a ton! I have finished!
 <img width="385" height="443" alt="image" src="https://github.com/user-attachments/assets/011f25e3-59ba-41cd-a139-edf9ebcd11f7" />
 <img width="440" height="382" alt="image" src="https://github.com/user-attachments/assets/743e568d-910d-4050-86be-5e2bfefec408" />
 <img width="650" height="436" alt="image" src="https://github.com/user-attachments/assets/5ad66eb7-d54d-4fe2-b73e-674d1506a6f1" />
